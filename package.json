@@ -12,7 +12,8 @@
     "mocha": "^5.0.4"
   },
   "scripts": {
-    "test": "./node_modules/.bin/mocha --reporter spec"
+    "test": "./node_modules/.bin/mocha --reporter spec",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
